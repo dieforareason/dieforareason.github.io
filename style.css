@@ -1,0 +1,14 @@
+@charset "utf-8";
+table {
+	border:0px solid #000;
+	bordder-collapse:collapse;
+	background:#0CC;
+}
+#anu {
+background:#FFF
+}
+#anu2 {
+	background:#CCC;
+	font-size:12px;
+}
+
